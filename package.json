@@ -1,0 +1,13 @@
+{
+  "name": "rollup-hashing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "rollup --config"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@modular-css/rollup": "^17.0.0",
+    "rollup": "^0.67.0"
+  }
+}
